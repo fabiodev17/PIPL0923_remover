@@ -6,7 +6,7 @@
 #várias 
 #linhas
 '''
-
+'''
 #prt
 print("Hello World!")
 
@@ -61,11 +61,11 @@ print("Olá Mundo,", nome, "em", ano)
 
 print(f"Olá Mundo, {nome} em {ano}")
 
-
+'''
 
 #-> % <-
 
-
+'''
 op2 = 10 % 3
 print(op2)
 
@@ -84,8 +84,9 @@ print(f"ola, {nome2}")
 
 print("--" * 10)
 #Ifs
+'''
 
-
+'''
 idade = 18
 if (idade > 18):
     print("Adulto")
@@ -94,20 +95,4 @@ else:
 
 
 print("Fora dos Ifs")
-
-
-idade = 10
-
-if idade > 18:
-    print("Adulto")
-elif idade > 11:
-    print("Jovem")
-else:
-    print("Criança")
-
-num1 = float(input("Insere o primeiro número: "))
-num2 = float(input("Insere o segundo número: "))
-
-soma = num1 + num2
-
-print("A soma dos dois números é:", soma)
+'''
